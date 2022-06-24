@@ -1,2 +1,2 @@
 #!/bin/bash
-chmoud a+X *
+chmod u+X *
